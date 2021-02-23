@@ -5,7 +5,7 @@
 
 ## Refs：
 
-- 指路17级学长的Github，yybd（https://github.com/YingChengJun/CourseMaterialOfSE/tree/master/%E5%AE%9E%E4%B9%A0%E9%9D%A2%E8%AF%95）
+- 指路[17级学长的Github]（https://github.com/YingChengJun/CourseMaterialOfSE/tree/master/%E5%AE%9E%E4%B9%A0%E9%9D%A2%E8%AF%95），yybd
 
 
 
